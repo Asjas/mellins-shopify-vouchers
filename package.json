@@ -40,7 +40,7 @@
     "@babel/plugin-syntax-top-level-await": "7.14.5",
     "@babel/preset-typescript": "7.14.5",
     "@types/node": "15.12.2",
-    "@types/tap": "15.0.3",
+    "@types/tap": "15.0.4",
     "babel-plugin-module-extension-resolver": "1.0.0-rc.2",
     "eslint-config-asjas": "0.0.25",
     "npm-run-all": "4.1.5",
