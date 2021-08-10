@@ -31,7 +31,7 @@
     "fastify-shopify-graphql-proxy": "0.12.1",
     "graphql": "15.5.1",
     "graphql-request": "3.5.0",
-    "pino-pretty": "5.1.2",
+    "pino-pretty": "5.1.3",
     "waait": "1.0.5"
   },
   "devDependencies": {
