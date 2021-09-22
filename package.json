@@ -45,7 +45,7 @@
     "eslint-config-asjas": "0.0.25",
     "npm-run-all": "4.1.5",
     "rimraf": "3.0.2",
-    "tap": "15.0.9",
+    "tap": "15.0.10",
     "ts-node": "10.2.1",
     "ts-node-dev": "1.1.6",
     "typescript": "4.4.3"
